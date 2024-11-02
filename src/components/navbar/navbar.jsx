@@ -198,7 +198,7 @@ const Navbar = ({ ShowMenuphone, setShowMenuphone }) => {
                   onClick={() => {
                     i18n.changeLanguage("ar");
                   }}
-                  className="nav_button bg-transparent text-[var(--main-color)] p-[5px] rounded-[14px] border-[2px] border-[#010101] flex items-center gap-2 cursor-pointer"
+                  className="nav_button bg-transparent text-[var(--main-color)] p-[5px] rounded-[14px] border-[2px] border-[#83bfe4] flex items-center gap-2 cursor-pointer"
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
